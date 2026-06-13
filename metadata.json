@@ -1,0 +1,10 @@
+{
+  "name": "Sistem Pembinaan Karakter SMAN 1 Bantaran",
+  "description": "Sistem informasi pemantauan, pencatatan otomatis berbasis barcode, dan rekapitulasi data pembinaan karakter siswa SMAN 1 Bantaran secara online dan terintegrasi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
